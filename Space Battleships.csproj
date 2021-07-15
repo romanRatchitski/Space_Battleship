@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3E155D04-63DD-493B-A945-DB0DD4200C73}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Space_Battleships</RootNamespace>
+    <AssemblyName>Space Battleships</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="colorprogressbar">
+      <HintPath>..\..\..\..\..\Desktop\colorprogressbar.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Build.Framework" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Presentation" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alien_A.cs" />
+    <Compile Include="Alien_B.cs" />
+    <Compile Include="Alien_C.cs" />
+    <Compile Include="Alien_D.cs" />
+    <Compile Include="Alien_E.cs" />
+    <Compile Include="Al_Missile.cs" />
+    <Compile Include="DataBase_Manager.cs" />
+    <Compile Include="Explosion.cs" />
+    <Compile Include="frmHigh_Scores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHigh_Scores.Designer.cs">
+      <DependentUpon>frmHigh_Scores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLog_In.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLog_In.Designer.cs">
+      <DependentUpon>frmLog_In.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingFrm.Designer.cs">
+      <DependentUpon>LoadingFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainManu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainManu.Designer.cs">
+      <DependentUpon>MainManu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level.Designer.cs">
+      <DependentUpon>Level.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pl_Missile.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SoundManager.cs" />
+    <Compile Include="Space_WeaponsStation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Space_WeaponsStation.Designer.cs">
+      <DependentUpon>Space_WeaponsStation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VictoryFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VictoryFrm.Designer.cs">
+      <DependentUpon>VictoryFrm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmHigh_Scores.resx">
+      <DependentUpon>frmHigh_Scores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLog_In.resx">
+      <DependentUpon>frmLog_In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingFrm.resx">
+      <DependentUpon>LoadingFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainManu.resx">
+      <DependentUpon>MainManu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level.resx">
+      <DependentUpon>Level.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Space_WeaponsStation.resx">
+      <DependentUpon>Space_WeaponsStation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VictoryFrm.resx">
+      <DependentUpon>VictoryFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2939-space-war-1920x1080-fantasy-wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09_940_t.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\galaxy-wallpapers-space-cluster-star-war-hercules-paper-hallway-referers-images-top-84849.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qsXsZ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space_war_by_notech4u-d53mq3r.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pic %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12721671_976238635744905_1411237898_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Command &amp; Conquer Generals Zero Hour Theme Music.mpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ShowImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space-small.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steamworkshop_webupload_previewfile_327002106_preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tumblr_static_4xlglb20lqkoc4ggo4ks888o0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.4.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 4.0 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1803251-o_19eda2omufb5691poi1m7u1qlac-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13162346_10210084759141246_274020469_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alien_A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alien_B.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alien_C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alien_D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flame.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\missle_pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A_Bullet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alien_explosion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_explosion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\al_missle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Al_MissileExplostion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flameM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WeaponsStation_Manu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C-802.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CPR-Heart-FDS.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heraldic-Shield-5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m3-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Missle_Explosion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Explosion.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Sounds\Machine Gun.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Machine_Gun.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Level2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mother ship.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

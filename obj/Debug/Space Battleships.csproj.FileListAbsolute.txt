@@ -1,0 +1,228 @@
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form1.resources
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form2.resources
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form3.resources
+c:\users\orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form4.resources
+C:\Users\Orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form5.resources
+C:\Users\Orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+C:\Users\Orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+C:\Users\Orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Orel\documents\visual studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+E:\FinalProject\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+E:\FinalProject\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+E:\FinalProject\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+E:\FinalProject\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+E:\FinalProject\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form1.resources
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form2.resources
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form3.resources
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form4.resources
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form5.resources
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form6.resources
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+E:\FinalProject\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form1.resources
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form2.resources
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form3.resources
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form4.resources
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form5.resources
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form6.resources
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+C:\Users\Orel\Desktop\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form1.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form2.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form3.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form4.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form5.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form6.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships B_Up\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form1.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form2.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form3.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form4.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form5.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form6.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Level1.resources
+C:\Users\Orel\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Space_WeaponsStation.resources
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form1.resources
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form2.resources
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form3.resources
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form4.resources
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form5.resources
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Level1.resources
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Space_WeaponsStation.resources
+D:\BACKUP\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form2.resources
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form3.resources
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form4.resources
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form5.resources
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Level1.resources
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Space_WeaponsStation.resources
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\mscorlib.dll
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\ru\mscorlib.resources.dll
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\normidna.nlp
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\normnfc.nlp
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\normnfd.nlp
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\normnfkc.nlp
+D:\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\normnfkd.nlp
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Space_WeaponsStation.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+C:\Users\User\Desktop\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+C:\Users\User\Desktop\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+C:\Users\User\Desktop\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form1.resources
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form2.resources
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form3.resources
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form4.resources
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Form5.resources
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Level1.resources
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Space_WeaponsStation.resources
+C:\Users\User\Desktop\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Level.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.frmHigh_Scores.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.frmLog_In.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.MainManu.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.VictoryFrm.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.frmHigh_Scores.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.frmLog_In.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.MainManu.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Level.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Space_WeaponsStation.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.VictoryFrm.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space BattleshipsOrg\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space BattleshipsOrg\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space BattleshipsOrg\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space BattleshipsOrg\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space BattleshipsOrg\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space BattleshipsOrg\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.LoadingFrm.resources
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe.config
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Interop.WMPLib.dll
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.ResolveComReference.cache
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.exe
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.pdb
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Space Battleships.exe
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Space Battleships.pdb
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\bin\Debug\Interop.WMPLib.dll
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.frmHigh_Scores.resources
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.frmLog_In.resources
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.LoadingFrm.resources
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.MainManu.resources
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Level.resources
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Properties.Resources.resources
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.Space_WeaponsStation.resources
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space_Battleships.VictoryFrm.resources
+C:\Users\Roman\Desktop\Space Battleships\Space Battleships\Space Battleships\obj\Debug\Space Battleships.csproj.GenerateResource.Cache
